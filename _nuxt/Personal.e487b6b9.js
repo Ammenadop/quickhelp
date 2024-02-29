@@ -1,0 +1,1 @@
+import{$ as t,b as s,o,j as e}from"./entry.6aad99e7.js";const n={},c={class:"flex align-items-center py-5 px-3"},a=e("i",{class:"pi pi-fw pi-user mr-2 text-2xl"},null,-1),r=e("p",{class:"m-0 text-lg"},"Personal Component Content via Child Route",-1),i=[a,r];function l(_,p){return o(),s("div",c,i)}const f=t(n,[["render",l]]);export{f as default};

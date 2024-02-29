@@ -1,0 +1,1 @@
+import{$ as s,b as e,o,j as t}from"./entry.6aad99e7.js";const n={},c=t("h1",null,"Bussiness",-1),a=[c];function r(_,i,d,l,p,u){return o(),e("div",null,a)}const B=s(n,[["render",r]]);export{B as default};
